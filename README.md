@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OliviaRonsain
 - 👀 I’m interested in disseminating research to empower citizens and achieve social change
-- 📫 Contact: oliviaronsain@gmail.com
 
 <!---
 OliviaRonsain/OliviaRonsain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
